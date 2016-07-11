@@ -31,7 +31,7 @@ img {
           padding: 1em;
           width: 100%;
           min-height: 1px;
-          border: black;
+          border: 1px solid black;
           background-color: blue;
           margin: 1em;
           }
